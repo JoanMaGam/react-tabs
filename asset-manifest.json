@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tabs/static/css/main.7db12e97.css",
+    "main.js": "/react-tabs/static/js/main.ea50a215.js",
+    "index.html": "/react-tabs/index.html",
+    "main.7db12e97.css.map": "/react-tabs/static/css/main.7db12e97.css.map",
+    "main.ea50a215.js.map": "/react-tabs/static/js/main.ea50a215.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7db12e97.css",
+    "static/js/main.ea50a215.js"
+  ]
+}
